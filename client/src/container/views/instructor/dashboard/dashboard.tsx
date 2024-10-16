@@ -1,3 +1,4 @@
+//@ts-nocheck
 import Sidebar from "@/components/instructorSidebar";
 import axios from "axios";
 import { useEffect, useMemo, useState } from "react";

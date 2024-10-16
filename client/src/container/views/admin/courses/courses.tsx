@@ -37,7 +37,6 @@ import { Input } from "@/components/ui/input";
 import { ToastAction } from "@/components/ui/toast";
 import { Toaster } from "@/components/ui/toaster";
 import { useToast } from "@/hooks/use-toast";
-import { log } from "console";
 
 const formSchema = z.object({
   course: z.string(),
